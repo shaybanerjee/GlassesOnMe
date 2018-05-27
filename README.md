@@ -1,0 +1,5 @@
+# GlassesOnMe
+Using OpenCV to build an application that allows people to try on different glasses before going to the store. 
+<h1> WIP </h1>
+<h2>Inspiration:</h2> 
+After discussing about the ophthalmic industry with a director at a lens manufacturing company, I was inspired to work on this project. There has been a recent rise in consumers purchasing glasses from online retailers. Therefore,I was told that there is demand for effective web applications that facilitate user experience when buying glasses. The director wondered if there could be a way for customers to try on different frames online before visiting stores to purchase them. This could attract more customers and lower time spent servicing these customers at various store locations. Hence, I decided to use an open cv library in python to build an application that will detect eyes and ears to enable individuals to try on different frames before vising stores. The application is still a WIP and so far I have completed the eye detection using opencv and a TensorFace shape_predictor_68_face_landmarks.dat model.
